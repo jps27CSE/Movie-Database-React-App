@@ -108,7 +108,10 @@ section {
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	background-color: #445565;
+	background-image: url('./img/1.jpg');
+	background-size: cover;
+	background-position: top;
+	transition: all 1s ease-out;
 
 	overflow-y: scroll;
 }
@@ -119,7 +122,7 @@ section {
 	max-width: 960px;
 	margin: 0 auto;
 	padding: 25px;
-
+  
 	color: #FFF;
 }
 
@@ -134,6 +137,7 @@ section {
 
 .popup .content .rating {
 	margin-bottom: 30px;
+	
 }
 
 .popup .content .plot {
@@ -158,6 +162,7 @@ section {
 	padding: 15px 30px;
 	font-size: 18px;
 	font-weight: 700;
+	margin-top: 5px;
 
 	background: #4484C4;
 	color: #FFF;
@@ -172,4 +177,31 @@ section {
 
 .popup .content .close:hover {
 	background: #223343;
+}
+
+.fa 
+{
+	font-size: 30px;
+	
+}
+
+.img-poster
+{
+	margin-left:300px;
+	
+}
+
+.container-extra
+{
+	display: flex;
+}
+
+.text-col
+{
+	margin: 20px 20px
+}
+
+.text
+{
+	margin: 15px
 }
