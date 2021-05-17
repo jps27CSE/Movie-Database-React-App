@@ -205,3 +205,32 @@ section {
 {
 	margin: 15px
 }
+
+/* on PC */
+/* @media screen and (min-width: 550px) {
+	.featured-image {
+	  float: left;
+	  width: 40%;
+	  padding-right: 15px;
+	}
+	.featured-image img {
+	  width: 100%;
+	}
+	.description {
+	  float: left;
+	  width: 60%;
+	}
+  } */
+
+/* on Mobile */
+@media screen and (max-width: 550px) {
+	.img-col {
+	  width: 100%;
+	}
+	.img-col img {
+	  width: 100%;
+	}
+	.text-col {
+	  width: 100%;
+	}
+  }
