@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Movie Database App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/58485174/118429965-c77c0000-b6f4-11eb-987b-4c960a6ad95a.gif)
+
 
 ## Available Scripts
 
